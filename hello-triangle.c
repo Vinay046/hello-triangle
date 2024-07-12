@@ -12,7 +12,6 @@
 #include <linux/input-event-codes.h>
 
 #include "xdg-shell-client-protocol.h"
-#include "glm_wrapper.h"
 
 #if defined(DEBUG)
 #define LOG(...) fprintf(stderr, __VA_ARGS__)
